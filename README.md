@@ -22,3 +22,4 @@ Since March, Snowball has grown to be one of the leading DeFi projects on Avalan
 {% hint style="info" %}
 New to DeFi? Learn more about the space on Snowball's very own [**DeFi University**](defi-university/introduction.md)!
 {% endhint %}
+test
